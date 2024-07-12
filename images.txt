@@ -1,3 +1,4 @@
 #支持指定架构 --platform=linux/arm64 xiaoyaliu/alist
 mysql:8.0.35
 treehouses/webssh
+openjdk:11-jdk-slim-sid
