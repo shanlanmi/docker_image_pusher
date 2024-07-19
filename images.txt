@@ -5,3 +5,4 @@ openjdk:11-jdk-slim-sid
 leonetpro/node18:vite-4.4.9
 --platform=linux/arm64 apache/rocketmq
 apache/rocketmq
+xuchengen/rocketmq
