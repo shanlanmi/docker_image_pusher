@@ -6,4 +6,4 @@ leonetpro/node18:vite-4.4.9
 apache/rocketmq
 xuchengen/rocketmq
 joshm1/nginx
-portainer-ce
+outlovecn/portainer-cn
