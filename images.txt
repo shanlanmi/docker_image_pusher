@@ -7,3 +7,4 @@ apache/rocketmq
 xuchengen/rocketmq
 joshm1/nginx
 congcong126/nginx-check
+portainer/portainer-ce
