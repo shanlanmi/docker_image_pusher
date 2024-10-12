@@ -1,9 +1,8 @@
 #支持指定架构 --platform=linux/arm64 xiaoyaliu/alist
-#2
+#3
 mysql:8.0.35
 openjdk:11-jdk-slim-sid
 leonetpro/node18:vite-4.4.9
 apache/rocketmq
 xuchengen/rocketmq
 outlovecn/portainer-cn
-nginx
