@@ -7,3 +7,5 @@ apache/rocketmq
 xuchengen/rocketmq
 outlovecn/portainer-cn
 hagb/docker-atrust
+snowdreamtech/frps
+snowdreamtech/frpc
