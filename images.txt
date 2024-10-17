@@ -10,3 +10,4 @@ hagb/docker-atrust
 snowdreamtech/frps
 snowdreamtech/frpc
 rustdesk/rustdesk-server
+redis:6.2.14
